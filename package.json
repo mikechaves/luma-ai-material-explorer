@@ -1,7 +1,7 @@
 {
   "name": "luma-ai-material-explorer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Three.js Material Explorer  Explore and edit materials using Three.js, React Three Fiber, and more. Create, edit, and remove materials in this delightful UI experience.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
